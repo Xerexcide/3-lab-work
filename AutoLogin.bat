@@ -19,8 +19,8 @@ git config --global user.name " "
 git config --global user.email " "
 echo Прошлый пользователь удалён!
 TIMEOUT /T 2 /NOBREAK
-git config --global user.name Xerexcide
-git config --global user.email max_subbotin@bk.ru
+git config --global user.name (Ник)
+git config --global user.email (Почта)
 echo Вы успешно авторизованы!
 pause
 
